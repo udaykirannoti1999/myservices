@@ -1,0 +1,6 @@
+services:
+  - payment_service
+  - upload_service
+  - audit_service
+  - yuzen_service
+
